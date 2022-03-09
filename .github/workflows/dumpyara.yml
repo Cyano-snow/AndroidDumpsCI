@@ -3,7 +3,7 @@ name: Dump
 on:
   push:
     paths-ignore:
-      - '*.md'
+      - 'R*.md'
     branches: [ main ]
 
 defaults:
