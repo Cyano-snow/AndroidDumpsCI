@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://repo.hitcloud.workers.dev/0:/Android/Samsung/SM-A750G_2_20210619033709_qvq77hm9kk_fac_A750GUBU6CUD2_A750GOWO6CUE1_A750GNUBU6CUD6_A750GUBU6CUD2_ZTO.zip
+  ROM_URL: http://darknessmirror.sparkyflasho.workers.dev/0://Vivo_Y53_PD1628F_EX_A_1.11.1_OTA.zip
 
 jobs:
   build:
